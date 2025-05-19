@@ -12,7 +12,7 @@
 ## 로그아웃(Logout)
 |Actor Action|System Response|
 |------|---|
-|1. 사용자가 로그아웃 버튼을 클릭한다.|2. ID를 출력한다.|
+|1. None |2. ID를 출력한다.|
 
 ## 자전거 정보 등록(Register Bike)
 |Actor Action|System Response|
